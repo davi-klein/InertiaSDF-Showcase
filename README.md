@@ -33,7 +33,7 @@ The `demo/demo_inference.ipynb` notebook provides a self-contained, interactive 
 
 During inference, the latent representation is refined iteratively. The model aligns the physical volume of the generated SDF with the target constraints.
 
-*(Insert an animated GIF here showing a 3D mesh morphing and optimizing its shape over several epochs)*
+![Test-Time Optimization Evolution](demo/assets/tto_evolution.gif)
 
 ## Quick Start
 
