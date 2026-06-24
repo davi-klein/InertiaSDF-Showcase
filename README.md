@@ -1,5 +1,9 @@
 # ConditionalSurfaceDecoder: Physics-Aware 3D Inverse Design
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+
 **ConditionalSurfaceDecoder** is a continuous 3D surface auto-decoder network tailored for inverse physical design. It maps multimodal constraints—including continuous numeric tensors, bounding spatial limits, and categorical properties—into continuous Signed Distance Fields (SDFs).
 
 > **Intellectual Property Notice & Academic Showcase**
