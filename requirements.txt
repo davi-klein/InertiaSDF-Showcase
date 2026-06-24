@@ -1,18 +1,18 @@
-Core Machine Learning & Tensor Operations
+#Core Machine Learning & Tensor Operations
 
 torch>=2.0.0
 numpy>=1.21.0
 
-Visualization & Plotting
+#Visualization & Plotting
 
 matplotlib>=3.5.0
 
-Interactive Notebook Environment
+#Interactive Notebook Environment
 
 jupyter>=1.0.0
 ipykernel>=6.0.0
 
-3D Geometry Utilities
+#3D Geometry Utilities
 
 scikit-image>=0.19.0
 scipy>=1.7.0
