@@ -24,7 +24,7 @@ This architecture bypasses traditional iterative geometric optimization by direc
 ### Architecture Overview
 
 <p align="center">
-  <img src="demo/assets/flowchart.png" width="500"/>
+  <img src="demo/assets/flowchart.png" width="2300"/>
 </p>
 
 ## Interactive Demonstration
@@ -36,7 +36,7 @@ The `demo/demo_inference.ipynb` notebook provides a self-contained, interactive 
 During inference, the latent representation is refined iteratively. The model aligns the physical volume of the generated SDF with the target constraints.
 
 <p align="center">
-  <img src="demo/assets/tto_evolution.gif" width="2300" alt="Time-Test Optimization Evolution" />
+  <img src="demo/assets/tto_evolution.gif" width="500" alt="Time-Test Optimization Evolution" />
 </p>
 
 ## Quick Start
