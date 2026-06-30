@@ -23,7 +23,9 @@ This architecture bypasses traditional iterative geometric optimization by direc
 
 ### Architecture Overview
 
-*(Insert an image of the neural network architecture block diagram here, highlighting Frequency Encoding, Latent Lookup, and Constraint Projection)*
+<p align="center">
+  <img src="demo/assets/flowchart.png"/>
+</p>
 
 ## Interactive Demonstration
 
