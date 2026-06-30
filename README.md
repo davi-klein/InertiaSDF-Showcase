@@ -24,7 +24,7 @@ This architecture bypasses traditional iterative geometric optimization by direc
 ### Architecture Overview
 
 <p align="center">
-  <img src="demo/assets/flowchart.png"/>
+  <img src="demo/assets/flowchart.png" width="500"/>
 </p>
 
 ## Interactive Demonstration
