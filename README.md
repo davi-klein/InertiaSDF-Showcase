@@ -6,10 +6,11 @@
 
 **ConditionalSurfaceDecoder** is a continuous 3D surface auto-decoder network tailored for inverse physical design. It maps multimodal constraints—including continuous numeric tensors, bounding spatial limits, and categorical properties—into continuous Signed Distance Fields (SDFs).
 
-> **Intellectual Property Notice & Academic Showcase**
-> This repository serves exclusively as an academic showcase and architectural demonstration of the underlying machine learning engineering. The full source code, including the proprietary mathematical formulations for spatial domain mapping, physical boundary estimation, and constraint verification algorithms, is currently under intellectual property protection for an ongoing patent and academic submission.
->
-> The code provided here highlights the public network topology, the Test-Time Optimization (TTO) pipeline structure, and the software engineering methodology.
+> **Intellectual Property & Academic Notice**
+> This repository serves exclusively as an academic showcase and architectural demonstration of the underlying machine learning engineering. The full source code—including the proprietary mathematical formulations for spatial domain mapping, physical boundary estimation, and constraint verification algorithms—is currently being withheld in preparation for formal intellectual property filing and peer-reviewed academic submission.
+> The codebase provided herein highlights the public network topology, the Test-Time Optimization (TTO) pipeline structure, and the rigorous software engineering methodology employed.
+
+
 
 ## Core Methodology
 
